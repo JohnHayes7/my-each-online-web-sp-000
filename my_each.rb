@@ -7,7 +7,7 @@ def my_each(array)
     else
       puts "No Block Given!"
     end
-  array
+    array
   end
 end
 
