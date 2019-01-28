@@ -10,4 +10,4 @@ def my_each(array)
   array
 end
 
-my_each(array)
+my_each(array) {|value| puts value}
