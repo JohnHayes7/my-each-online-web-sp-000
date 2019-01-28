@@ -9,5 +9,6 @@ def my_each(array)
   end
   array
 end
+end
 
 my_each(array) {|value| puts value}
