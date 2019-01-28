@@ -12,3 +12,4 @@ def my_each(array)
 end
 
 my_each(array) {|value| puts value}
+end
